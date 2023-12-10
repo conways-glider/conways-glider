@@ -1,3 +1,8 @@
-# Hi there! :crab:
+# Hi there! :crab::transgender_flag:
 
-## Transfem Programmer
+Some things I do:
+
+- CLI Development
+- Developer Tooling
+- Rust Lang
+- Go Lang
