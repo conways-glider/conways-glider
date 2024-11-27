@@ -7,4 +7,4 @@ Some things I do:
 - Rust Lang
 - Go Lang
 
-If you want to contact me, please reach out via my Mastodon or Bluesky!
+If you want to contact me, please reach out via my Bluesky or Mastodon!
